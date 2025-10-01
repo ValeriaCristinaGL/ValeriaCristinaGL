@@ -5,7 +5,15 @@
 Me chamo Valéria Lima, estudante de Engenharia de Software e apaixonada por inovação. Tenho experiência em desenvolvimento front-end, mas atualmente estou expandindo meus conhecimentos em Infraestrutura e Segurança da Informação, atuando como aluna bolsista no projeto Moura Tech.
 
 
-<p align="left"> <a href="https://github.com/ValeriaCristinaGL?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ValeriaCristinaGL?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a> <a href="https://github.com/ValeriaCristinaGL?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ValeriaCristinaGL?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/valerialima-engenheira-software/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Conecte-se comigo no LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
 
 ---
 
